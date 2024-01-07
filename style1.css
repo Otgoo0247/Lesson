@@ -1,0 +1,39 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.img img{
+    border-radius: 50%;
+    border-bottom: 10px solid white;
+    margin-left: 150px;
+
+}
+.text ul li{
+    margin-top: 80px;
+    border-bottom: 0 solid black;
+    margin-right: 100px;
+    margin-left: -200px;
+    color: white;
+    font-size: 30px;
+    list-style: none;
+}
+.header{
+    background-color: rgb(99, 123, 132);
+}
+.Family{
+    background-color: rgb(99, 123, 132);
+}
+.Shutis{
+    background-color: rgb(99, 123, 132);
+}
+.Xian{
+    background-color: rgb(99, 123, 132);
+}
+.Work{
+    background-color: rgb(99, 123, 132);
+}
+.
+.header.img{
+    width: 100px;
+    height: 100px;
+}
